@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Data Visualization
+title: Additional Information
 has_children: true
 nav_order: 5
 ---
 
-# Data Visualization
+# Additional Information
