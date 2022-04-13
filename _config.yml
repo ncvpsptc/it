@@ -21,7 +21,7 @@
 title: IT Knowledge Base
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
- Additional learning material, assignments, and projects for teachers to be used in the classroom, utilizing www.freecodecamp.org/.
+  A technical knowledge base for staff and students at NCVirtual. Created by the NCVirtual Peer Tutoring Center.
 baseurl: "/it" # the subpath of your site, e.g. /blog
 url: "https://ncvpsptc.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ncvpsptc
