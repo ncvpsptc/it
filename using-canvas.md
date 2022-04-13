@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Responsive Web Design
+title: Using Canvas
 has_children: true
 nav_order: 2
 ---
 
-# Responsive Web Design
+# Using Canvas
