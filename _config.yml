@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/it" # the subpath of your site, e.g. /blog
 url: "https://ncvpsptc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ncvpsptc
-color_scheme: light
+color_scheme: foo
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
@@ -33,6 +33,7 @@ remote_theme: pmarsceill/just-the-docs
 # theme: minima
 plugins:
   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
