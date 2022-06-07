@@ -16,4 +16,4 @@ Created by [Khadeejah S](/it/about)
 
 ---
 
-**Tags:** Discussion, Dicussion Board, Canvas
+**Tags:** Discussion, Discussion Board, Canvas
