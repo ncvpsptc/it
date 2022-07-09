@@ -25,6 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/it" # the subpath of your site, e.g. /blog
 url: "https://ncvpsptc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ncvpsptc
+heading_anchors: true
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs

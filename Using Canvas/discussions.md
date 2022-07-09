@@ -8,6 +8,8 @@ nav_order: 2
 
 # Discussions in Canvas
 
+Permalink: [https://ncvpsptc.github.io/it/Using%20Canvas/discussions.html](https://ncvpsptc.github.io/it/Using%20Canvas/discussions.html)
+
 ## Video
 
 <iframe width="560"  height="315"  src="https://ncvps.yuja.com/V/Video?v=5064320&node=17601685&a=250227558&preload=false" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen loading="lazy" alt="Canvas Dicussion Video"></iframe>
