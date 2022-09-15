@@ -26,6 +26,13 @@ baseurl: "/it" # the subpath of your site, e.g. /blog
 url: "https://ncvpsptc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: ncvpsptc
 heading_anchors: true
+aux_links:
+  "Peer Tutoring Center on Canvas":
+    - "https://ncvps.instructure.com/courses/100"
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+logo: "assets/site_logo.png"
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
